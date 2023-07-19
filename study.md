@@ -111,6 +111,6 @@ If we look at the **features usage** according to the **users' physical activity
 
 **See the visualizations on my interactive [Tableau Dashboard](https://public.tableau.com/app/profile/mariana.ermano/viz/BellabeatCaseStudyFitnesstrackerDA/AllFeatures?publish=yes)**
 
-![Screenshot of my Tableau Dashboard](https://github.com/mariana-ermano/fitness-tracker-da/blob/main/dashboard.png)
+![Screenshot of my Tableau Dashboard](/dashboard.PNG)
 
 
