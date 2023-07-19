@@ -231,7 +231,7 @@ ORDER BY
   date;
 
 -- Created a table with all the dates cross joining it with the users list, in order to fill the missing dates on all features data
--- Saved query results as all_features_final table
+-- Saved query results as all_features_final table, the csv file can be found in the 'tables_created_for_analysis' folder
 
 WITH all_dates AS (
   SELECT 
