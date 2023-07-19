@@ -72,7 +72,7 @@ ORDER BY
     id;  
 
 -- From weightLogInfo_merged.csv created table weight_log
--- Grouping records by day, reformating date col, rounding some cols and replacing null values with 0, saved query results as weight_log_clean table 
+-- Grouped records by day, reformated date col, rounding some cols and replacing null values with 0, saved query results as weight_log_clean table 
 
 SELECT  
   id,
@@ -231,7 +231,7 @@ ORDER BY
   date;
 
 -- Created a table with all the dates cross joining it with the users list, in order to fill the missing dates on all features data
--- Saved query results as all_features_final table, the csv file can be found in the 'tables_created_for_analysis' folder
+-- Saved query results as all_features_final table.csv, file can be found in the 'tables_created_for_analysis' folder
 
 WITH all_dates AS (
   SELECT 
