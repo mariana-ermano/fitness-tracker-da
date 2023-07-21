@@ -1,7 +1,7 @@
 /*
 
 For this project I used BigQuery (free account)
-Created 'bellabeat-case-study-07-2023' project, 'fitabeat' dataset and created tables from the csv files that can be found in the 'csv_files_to_import' folder 
+Created 'bellabeat-case-study-07-2023' project, 'fitabeat' dataset and created tables by uploading the csv files that can be found in the 'csv_files_to_import' folder 
 
 */
 
